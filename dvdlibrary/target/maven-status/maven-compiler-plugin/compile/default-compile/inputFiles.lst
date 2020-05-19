@@ -1,0 +1,12 @@
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/view/DVDLibraryView.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/dao/DVDao.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/dto/DVD.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/controller/LibraryController.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/app/DVDApp.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/view/UserIO.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/dao/IDVDao.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/dto/DVDLibrary.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/service/DVDService.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/exception/LibraryPersistenceException.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/view/UserIOConsoleImpl.java
+/Users/gabrieltowey/NetBeansProjects/dvdlibrary/src/main/java/com/dvdlibrary/service/IDVDService.java
